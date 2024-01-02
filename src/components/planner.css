@@ -1,0 +1,103 @@
+    table {
+        border-collapse: collapse;
+        width: 80%;
+        margin: 0 auto;
+        margin-top: 50px;
+        table-layout: fixed;
+    }
+
+    .pdf-table {
+        text-align: center;
+        padding: 50px 0;
+    }
+
+    thead tr th:first-child,
+    tbody tr td:first-child {
+        width: 65px;
+        min-width: 65px;
+        max-width: 65px;
+        word-break: break-all;
+    }
+
+    tbody td:hover {
+        border: 2px solid orange;
+    }
+
+    th,
+    td {
+        border: 1px solid #ccc;
+        padding: 8px;
+        text-align: center;
+    }
+
+    .th-entry-container {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+
+    .th-entry-date {
+        font-size: 0.8em;
+    }
+
+    .th-entry-content {
+        flex: 1;
+    }
+
+    .th-entry-container button {
+        margin-top: -1px;
+    }
+
+    th {
+        background-color: rgb(219, 215, 242);
+    }
+
+    th:first-child {
+        background-color: #ccc !important;
+    }
+
+    td {
+        background-color: #fff;
+    }
+
+    th:first-child,
+    td:first-child {
+        text-align: left;
+    }
+
+
+    tr:nth-child(odd) td {
+        background-color: #f2f2f2;
+    }
+
+    .onlineColumn {
+        background-color: rgb(242, 242, 215);
+    }
+
+    td {
+        position: relative;
+    }
+
+    .entry-container {
+        min-height: 120px;
+        height: 120px;
+        max-height: 120px;
+        overflow: hidden;
+    }
+
+    .entry-container div {
+        font-size: 12px;
+    }
+
+    .name-text {
+        font-weight: bold;
+    }
+
+    .edit-button {
+        position: absolute;
+        top: 0;
+        right: 0;
+        cursor: pointer;
+        background: none;
+        border: none;
+    }

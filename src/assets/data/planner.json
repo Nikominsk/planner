@@ -1,0 +1,121 @@
+{
+  "days": {
+    "Monday": { "date": "06.11.", "isOfflineDay": true},
+    "Tuesday": { "date": "07.11.", "isOfflineDay": false},
+    "Wednesday": { "date": "08.11.", "isOfflineDay": true},
+    "Thursday": { "date": "09.11.", "isOfflineDay": false},
+    "Friday": { "date": "10.11.", "isOfflineDay": false}
+  },
+
+  "schedule": {
+        
+    "eightOClock": {
+      "Monday": {
+        "name": "Mathematics",
+        "category": "categoryA",
+        "optionalText": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. A eum rerum recusandae commodi, repellendus libero, cum."
+      },
+      "Tuesday": {
+        "name": "English",
+        "category": "categoryC",
+        "optionalText": ""
+      },
+      "Wednesday": {
+        "name": "Science",
+        "category": "categoryB",
+        "optionalText": "optinal Text 1"
+      },
+      "Thursday": {
+        "name": "",
+        "category": "",
+        "optionalText": "optinal Text 6"
+      },
+      "Friday": {
+        "name": "Mathematics",
+        "category": "categoryA",
+        "optionalText": "optinal Text 1"
+      }
+    },
+    "nineOClock": {
+      "Monday": {
+        "name": "Mathematics",
+        "category": "categoryA",
+        "optionalText": "optinal Text 4"
+      },
+      "Tuesday": {
+        "name": "",
+        "category": "",
+        "optionalText": ""
+      },
+      "Wednesday": {
+        "name": "Physics",
+        "category": "categoryC",
+        "optionalText": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. A eum rerum recusandae commodi, repellendus libero."
+      },
+      "Thursday": {
+        "name": "Music",
+        "category": "categoryA",
+        "optionalText": ""
+      },
+      "Friday": {
+        "name": "",
+        "category": "",
+        "optionalText": ""
+      }
+    },
+    "tenOClock": {
+      "Monday": {
+        "name": "",
+        "category": "",
+        "optionalText": ""
+      },
+      "Tuesday": {
+        "name": "Geography",
+        "category": "categoryB",
+        "optionalText": "optinal Text 5"
+      },
+      "Wednesday": {
+        "name": "",
+        "category": "",
+        "optionalText": "optinal Text 9"
+      },
+      "Thursday": {
+        "name": "Chemistry",
+        "category": "categoryB",
+        "optionalText": "optinal Text 8"
+      },
+      "Friday": {
+        "name": "",
+        "category": "",
+        "optionalText": ""
+      }
+    },
+    "elevenOClock": {
+      "Monday": {
+        "name": "Science",
+        "category": "categoryB",
+        "optionalText": "optinal Text 15"
+      },
+      "Tuesday": {
+        "name": "Physical Education",
+        "category": "categoryB",
+        "optionalText": "optinal Text 1"
+      },
+      "Wednesday": {
+        "name": "",
+        "category": "",
+        "optionalText": ""
+      },
+      "Thursday": {
+        "name": "Music",
+        "category": "categoryA",
+        "optionalText": "optinal Text 4"
+      },
+      "Friday": {
+        "name": "Foreign Language",
+        "category": "categoryB",
+        "optionalText": "optinal Text 2"
+      }
+    }
+  }
+}

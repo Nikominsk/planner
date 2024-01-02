@@ -1,0 +1,148 @@
+{
+  "schedule": [
+    {
+      "day": "Monday",
+      "online": "no",
+      "lessons": [
+        {
+          "name": "Mathematics",
+          "startTime": "8:00",
+          "endTime": "10:00",
+          "category": "categoryA"
+        },
+        {
+          "name": "Science",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "category": "categoryA"
+        },
+        {
+          "name": "",
+          "startTime": "11:00",
+          "endTime": "12:00",
+          "category": ""
+        }
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "online": "no",
+      "lessons": [
+        {
+          "name": "English",
+          "startTime": "8:00",
+          "endTime": "9:00",
+          "category": "categoryA"
+        },
+        {
+          "name": "",
+          "startTime": "9:00",
+          "endTime": "10:00",
+          "category": ""
+        },
+        {
+          "name": "Geography",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "category": "categoryB"
+        },
+        {
+          "name": "Physical Education",
+          "startTime": "11:00",
+          "endTime": "12:00",
+          "category": "categoryB"
+        }
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "online": "yes",
+      "lessons": [
+        {
+          "name": "Art",
+          "startTime": "8:00",
+          "endTime": "9:00",
+          "category": "categoryC"
+        },
+        {
+          "name": "Physics",
+          "startTime": "9:00",
+          "endTime": "10:00",
+          "category": "categoryC"
+        },
+        {
+          "name": "",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "category": ""
+        },
+        {
+          "name": "",
+          "startTime": "11:00",
+          "endTime": "12:00",
+          "category": ""
+        }
+      ]
+    },
+    {
+      "day": "Thursday",
+      "online": "yes",
+      "lessons": [
+        {
+          "name": "",
+          "startTime": "8:00",
+          "endTime": "9:00",
+          "category": ""
+        },
+        {
+          "name": "Music",
+          "startTime": "9:00",
+          "endTime": "10:00",
+          "category": "categoryB"
+        },
+        {
+          "name": "Chemistry",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "category": "categoryB"
+        },
+        {
+          "name": "Music",
+          "startTime": "11:00",
+          "endTime": "12:00",
+          "category": "categoryA"
+        }
+      ]
+    },
+    {
+      "day": "Friday",
+      "online": "no",
+      "lessons": [
+        {
+          "name": "Computer Science",
+          "startTime": "8:00",
+          "endTime": "9:00",
+          "category": "categoryC"
+        },
+        {
+          "name": "",
+          "startTime": "9:00",
+          "endTime": "10:00",
+          "category": ""
+        },
+        {
+          "name": "",
+          "startTime": "10:00",
+          "endTime": "11:00",
+          "category": ""
+        },
+        {
+          "name": "Foreign Language",
+          "startTime": "11:00",
+          "endTime": "12:00",
+          "category": "categoryB"
+        }
+      ]
+    }
+  ]
+}
